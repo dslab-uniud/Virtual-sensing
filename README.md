@@ -2,13 +2,19 @@
 
 This repository contains the data and the source code related to the paper:
 
-    @inproceedings{brunello2020virtual,
-      title={Virtual Sensing of Temperatures in Indoor Environments: A Case Study},
-      author={Brunello, Andrea and Kraft, Martin and Montanari, Angelo and Pittino, Federico and Urgolo, Andrea},
-      booktitle={2020 International Conference on Data Mining Workshops (ICDMW)},
-      pages={805--810},
-      year={2020},
-      organization={IEEE}
-    }
+        @article{DBLP:journals/sensors/BrunelloUPMM21,
+          author    = {Andrea Brunello and
+                       Andrea Urgolo and
+                       Federico Pittino and
+                       Andr{\'{a}}s Montvay and
+                       Angelo Montanari},
+          title     = {Virtual Sensing and Sensors Selection for Efficient Temperature Monitoring
+                       in Indoor Environments},
+          journal   = {Sensors},
+          volume    = {21},
+          number    = {8},
+          year      = {2021},
+          doi       = {10.3390/s21082728},
+        }
 
 Please cite our work should you reuse the data or parts of the code.
