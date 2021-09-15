@@ -14,7 +14,7 @@ This repository contains the data and the source code related to the paper:
           volume    = {21},
           number    = {8},
           year      = {2021},
-          doi       = {10.3390/s21082728},
+          doi       = {10.3390/s21082728}
         }
 
 Please cite our work should you reuse the data or parts of the code.
