@@ -17,4 +17,4 @@ This repository contains the data and the source code related to the paper:
           doi       = {10.3390/s21082728}
         }
 
-Please cite our work should you reuse the data or parts of the code.
+Please cite our work if you reuse the data or parts of the code.
